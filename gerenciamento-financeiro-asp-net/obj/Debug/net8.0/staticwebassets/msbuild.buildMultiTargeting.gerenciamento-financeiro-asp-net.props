@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\gerenciamento-financeiro-asp-net.props" />
+</Project>
