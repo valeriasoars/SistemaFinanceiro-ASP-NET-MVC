@@ -1,4 +1,5 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using gerenciamento_financeiro_asp_net.Models;
+using Microsoft.EntityFrameworkCore;
 
 namespace gerenciamento_financeiro_asp_net.Data
 {
@@ -9,6 +10,28 @@ namespace gerenciamento_financeiro_asp_net.Data
             
         }
 
+        public DbSet<Categoria> Categorias { get; set; }
+        public DbSet<Transacao> Transacoes { get; set; }
+        public DbSet<Financeiro> Financas { get; set; }
 
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+
+            modelBuilder.Entity<Categoria>().HasData(
+                new Categoria { CategoriaId = "educacao", Nome = "Educação" },
+                new Categoria { CategoriaId = "salario", Nome = "Salário" },
+                new Categoria { CategoriaId = "viagem", Nome = "Viagem" },
+                new Categoria { CategoriaId = "mercado", Nome = "Mercado" },
+                new Categoria { CategoriaId = "comissao", Nome = "Comissão" }
+            );
+
+            modelBuilder.Entity<Transacao>().HasData(
+                new Transacao {  TransacaoId = "ganho", Nome = "Ganho"},
+                new Transacao { TransacaoId = "gasto", Nome = "Gasto" }
+            );
+
+
+            base.OnModelCreating(modelBuilder);
+        }
     }
 }

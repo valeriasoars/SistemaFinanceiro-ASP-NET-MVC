@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\valer\\OneDrive\\Documentos\\Projetos\\gerenciamento-financeiro-asp-net\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\valer\\OneDrive\\Documentos\\Projetos\\gerenciamento-financeiro-asp-net\\gerenciamento-financeiro-asp-net\\Migrations\\20241220184318_CriandoBanco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:gerenciamento-financeiro-asp-net\\Migrations\\20241220184318_CriandoBanco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E8273EB9-1642-4B73-835C-8A75713C958A}|gerenciamento-financeiro-asp-net\\gerenciamento-financeiro-asp-net.csproj|c:\\users\\valer\\onedrive\\documentos\\projetos\\gerenciamento-financeiro-asp-net\\gerenciamento-financeiro-asp-net\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8273EB9-1642-4B73-835C-8A75713C958A}|gerenciamento-financeiro-asp-net\\gerenciamento-financeiro-asp-net.csproj|solutionrelative:gerenciamento-financeiro-asp-net\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\valer\\OneDrive\\Documentos\\Projetos\\gerenciamento-financeiro-asp-net\\gerenciamento-financeiro-asp-net\\Migrations\\20241220190738_CriandoTabelas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:gerenciamento-financeiro-asp-net\\Migrations\\20241220190738_CriandoTabelas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E8273EB9-1642-4B73-835C-8A75713C958A}|gerenciamento-financeiro-asp-net\\gerenciamento-financeiro-asp-net.csproj|c:\\users\\valer\\onedrive\\documentos\\projetos\\gerenciamento-financeiro-asp-net\\gerenciamento-financeiro-asp-net\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E8273EB9-1642-4B73-835C-8A75713C958A}|gerenciamento-financeiro-asp-net\\gerenciamento-financeiro-asp-net.csproj|solutionrelative:gerenciamento-financeiro-asp-net\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8273EB9-1642-4B73-835C-8A75713C958A}|gerenciamento-financeiro-asp-net\\gerenciamento-financeiro-asp-net.csproj|c:\\users\\valer\\onedrive\\documentos\\projetos\\gerenciamento-financeiro-asp-net\\gerenciamento-financeiro-asp-net\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{E8273EB9-1642-4B73-835C-8A75713C958A}|gerenciamento-financeiro-asp-net\\gerenciamento-financeiro-asp-net.csproj|solutionrelative:gerenciamento-financeiro-asp-net\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{E8273EB9-1642-4B73-835C-8A75713C958A}|gerenciamento-financeiro-asp-net\\gerenciamento-financeiro-asp-net.csproj|c:\\users\\valer\\onedrive\\documentos\\projetos\\gerenciamento-financeiro-asp-net\\gerenciamento-financeiro-asp-net\\models\\financeiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8273EB9-1642-4B73-835C-8A75713C958A}|gerenciamento-financeiro-asp-net\\gerenciamento-financeiro-asp-net.csproj|solutionrelative:gerenciamento-financeiro-asp-net\\models\\financeiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8273EB9-1642-4B73-835C-8A75713C958A}|gerenciamento-financeiro-asp-net\\gerenciamento-financeiro-asp-net.csproj|c:\\users\\valer\\onedrive\\documentos\\projetos\\gerenciamento-financeiro-asp-net\\gerenciamento-financeiro-asp-net\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8273EB9-1642-4B73-835C-8A75713C958A}|gerenciamento-financeiro-asp-net\\gerenciamento-financeiro-asp-net.csproj|solutionrelative:gerenciamento-financeiro-asp-net\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8273EB9-1642-4B73-835C-8A75713C958A}|gerenciamento-financeiro-asp-net\\gerenciamento-financeiro-asp-net.csproj|c:\\users\\valer\\onedrive\\documentos\\projetos\\gerenciamento-financeiro-asp-net\\gerenciamento-financeiro-asp-net\\models\\transacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8273EB9-1642-4B73-835C-8A75713C958A}|gerenciamento-financeiro-asp-net\\gerenciamento-financeiro-asp-net.csproj|solutionrelative:gerenciamento-financeiro-asp-net\\models\\transacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,53 +35,66 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "20241220184318_CriandoBanco.cs",
-              "DocumentMoniker": "C:\\Users\\valer\\OneDrive\\Documentos\\Projetos\\gerenciamento-financeiro-asp-net\\gerenciamento-financeiro-asp-net\\Migrations\\20241220184318_CriandoBanco.cs",
-              "RelativeDocumentMoniker": "gerenciamento-financeiro-asp-net\\Migrations\\20241220184318_CriandoBanco.cs",
-              "ToolTip": "C:\\Users\\valer\\OneDrive\\Documentos\\Projetos\\gerenciamento-financeiro-asp-net\\gerenciamento-financeiro-asp-net\\Migrations\\20241220184318_CriandoBanco.cs",
-              "RelativeToolTip": "gerenciamento-financeiro-asp-net\\Migrations\\20241220184318_CriandoBanco.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "20241220190738_CriandoTabelas.cs",
+              "DocumentMoniker": "C:\\Users\\valer\\OneDrive\\Documentos\\Projetos\\gerenciamento-financeiro-asp-net\\gerenciamento-financeiro-asp-net\\Migrations\\20241220190738_CriandoTabelas.cs",
+              "RelativeDocumentMoniker": "gerenciamento-financeiro-asp-net\\Migrations\\20241220190738_CriandoTabelas.cs",
+              "ToolTip": "C:\\Users\\valer\\OneDrive\\Documentos\\Projetos\\gerenciamento-financeiro-asp-net\\gerenciamento-financeiro-asp-net\\Migrations\\20241220190738_CriandoTabelas.cs",
+              "RelativeToolTip": "gerenciamento-financeiro-asp-net\\Migrations\\20241220190738_CriandoTabelas.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T18:43:19.116Z",
+              "WhenOpened": "2024-12-20T19:07:38.536Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\valer\\OneDrive\\Documentos\\Projetos\\gerenciamento-financeiro-asp-net\\gerenciamento-financeiro-asp-net\\Program.cs",
-              "RelativeDocumentMoniker": "gerenciamento-financeiro-asp-net\\Program.cs",
-              "ToolTip": "C:\\Users\\valer\\OneDrive\\Documentos\\Projetos\\gerenciamento-financeiro-asp-net\\gerenciamento-financeiro-asp-net\\Program.cs",
-              "RelativeToolTip": "gerenciamento-financeiro-asp-net\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T18:38:52.858Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\valer\\OneDrive\\Documentos\\Projetos\\gerenciamento-financeiro-asp-net\\gerenciamento-financeiro-asp-net\\appsettings.json",
-              "RelativeDocumentMoniker": "gerenciamento-financeiro-asp-net\\appsettings.json",
-              "ToolTip": "C:\\Users\\valer\\OneDrive\\Documentos\\Projetos\\gerenciamento-financeiro-asp-net\\gerenciamento-financeiro-asp-net\\appsettings.json",
-              "RelativeToolTip": "gerenciamento-financeiro-asp-net\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-20T18:33:36.357Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\valer\\OneDrive\\Documentos\\Projetos\\gerenciamento-financeiro-asp-net\\gerenciamento-financeiro-asp-net\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "gerenciamento-financeiro-asp-net\\Data\\AppDbContext.cs",
               "ToolTip": "C:\\Users\\valer\\OneDrive\\Documentos\\Projetos\\gerenciamento-financeiro-asp-net\\gerenciamento-financeiro-asp-net\\Data\\AppDbContext.cs",
               "RelativeToolTip": "gerenciamento-financeiro-asp-net\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowBwAAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T18:29:50.024Z",
+              "WhenOpened": "2024-12-20T18:57:27.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Financeiro.cs",
+              "DocumentMoniker": "C:\\Users\\valer\\OneDrive\\Documentos\\Projetos\\gerenciamento-financeiro-asp-net\\gerenciamento-financeiro-asp-net\\Models\\Financeiro.cs",
+              "RelativeDocumentMoniker": "gerenciamento-financeiro-asp-net\\Models\\Financeiro.cs",
+              "ToolTip": "C:\\Users\\valer\\OneDrive\\Documentos\\Projetos\\gerenciamento-financeiro-asp-net\\gerenciamento-financeiro-asp-net\\Models\\Financeiro.cs",
+              "RelativeToolTip": "gerenciamento-financeiro-asp-net\\Models\\Financeiro.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T18:50:20.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Transacao.cs",
+              "DocumentMoniker": "C:\\Users\\valer\\OneDrive\\Documentos\\Projetos\\gerenciamento-financeiro-asp-net\\gerenciamento-financeiro-asp-net\\Models\\Transacao.cs",
+              "RelativeDocumentMoniker": "gerenciamento-financeiro-asp-net\\Models\\Transacao.cs",
+              "ToolTip": "C:\\Users\\valer\\OneDrive\\Documentos\\Projetos\\gerenciamento-financeiro-asp-net\\gerenciamento-financeiro-asp-net\\Models\\Transacao.cs",
+              "RelativeToolTip": "gerenciamento-financeiro-asp-net\\Models\\Transacao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T18:48:56.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\valer\\OneDrive\\Documentos\\Projetos\\gerenciamento-financeiro-asp-net\\gerenciamento-financeiro-asp-net\\Models\\Categoria.cs",
+              "RelativeDocumentMoniker": "gerenciamento-financeiro-asp-net\\Models\\Categoria.cs",
+              "ToolTip": "C:\\Users\\valer\\OneDrive\\Documentos\\Projetos\\gerenciamento-financeiro-asp-net\\gerenciamento-financeiro-asp-net\\Models\\Categoria.cs",
+              "RelativeToolTip": "gerenciamento-financeiro-asp-net\\Models\\Categoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T18:48:03.268Z",
               "EditorCaption": ""
             }
           ]
