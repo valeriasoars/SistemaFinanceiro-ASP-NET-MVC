@@ -1,5 +1,17 @@
 ﻿<Project>
   <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/gerenciamento-financeiro-asp-net/css/Flatly.3m0i97hbun.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\Flatly.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"3m0i97hbun"},{"Name":"integrity","Value":"sha256-ZTeb/MxNtbGPK/C/XOrHeRMnOyxJMG3YIjIw9azrmSI="},{"Name":"label","Value":"_content/gerenciamento-financeiro-asp-net/css/Flatly.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"281758"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022ZTeb/MxNtbGPK/C/XOrHeRMnOyxJMG3YIjIw9azrmSI=\u0022"},{"Name":"Last-Modified","Value":"Fri, 20 Dec 2024 19:17:43 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/gerenciamento-financeiro-asp-net/css/Flatly.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\Flatly.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-ZTeb/MxNtbGPK/C/XOrHeRMnOyxJMG3YIjIw9azrmSI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"281758"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022ZTeb/MxNtbGPK/C/XOrHeRMnOyxJMG3YIjIw9azrmSI=\u0022"},{"Name":"Last-Modified","Value":"Fri, 20 Dec 2024 19:17:43 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/gerenciamento-financeiro-asp-net/css/site.c2tiyv64ts.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
