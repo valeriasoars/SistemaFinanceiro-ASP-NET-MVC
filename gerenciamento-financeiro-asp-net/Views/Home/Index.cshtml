@@ -84,7 +84,7 @@
                         }
                         <td>R$ @financa.Valor.ToString("F")</td>
                         <td>
-                            <a class="btn btn-danger">Remover</a>
+                            <a asp-action="RemoverTransacao" asp-controller="Home" asp-route-id="@financa.Id" class="btn btn-danger">Remover</a>
                         </td>
                     </tr>
                 }

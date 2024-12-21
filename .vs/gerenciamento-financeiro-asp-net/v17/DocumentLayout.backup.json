@@ -7,14 +7,6 @@
       "RelativeMoniker": "D:0:0:{E8273EB9-1642-4B73-835C-8A75713C958A}|gerenciamento-financeiro-asp-net\\gerenciamento-financeiro-asp-net.csproj|solutionrelative:gerenciamento-financeiro-asp-net\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8273EB9-1642-4B73-835C-8A75713C958A}|gerenciamento-financeiro-asp-net\\gerenciamento-financeiro-asp-net.csproj|c:\\users\\valer\\onedrive\\documentos\\projetos\\gerenciamento-financeiro-asp-net\\gerenciamento-financeiro-asp-net\\views\\home\\adicionartransacao.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E8273EB9-1642-4B73-835C-8A75713C958A}|gerenciamento-financeiro-asp-net\\gerenciamento-financeiro-asp-net.csproj|solutionrelative:gerenciamento-financeiro-asp-net\\views\\home\\adicionartransacao.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E8273EB9-1642-4B73-835C-8A75713C958A}|gerenciamento-financeiro-asp-net\\gerenciamento-financeiro-asp-net.csproj|c:\\users\\valer\\onedrive\\documentos\\projetos\\gerenciamento-financeiro-asp-net\\gerenciamento-financeiro-asp-net\\models\\financeiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8273EB9-1642-4B73-835C-8A75713C958A}|gerenciamento-financeiro-asp-net\\gerenciamento-financeiro-asp-net.csproj|solutionrelative:gerenciamento-financeiro-asp-net\\models\\financeiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E8273EB9-1642-4B73-835C-8A75713C958A}|gerenciamento-financeiro-asp-net\\gerenciamento-financeiro-asp-net.csproj|c:\\users\\valer\\onedrive\\documentos\\projetos\\gerenciamento-financeiro-asp-net\\gerenciamento-financeiro-asp-net\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E8273EB9-1642-4B73-835C-8A75713C958A}|gerenciamento-financeiro-asp-net\\gerenciamento-financeiro-asp-net.csproj|solutionrelative:gerenciamento-financeiro-asp-net\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
@@ -26,33 +18,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Financeiro.cs",
-              "DocumentMoniker": "C:\\Users\\valer\\OneDrive\\Documentos\\Projetos\\gerenciamento-financeiro-asp-net\\gerenciamento-financeiro-asp-net\\Models\\Financeiro.cs",
-              "RelativeDocumentMoniker": "gerenciamento-financeiro-asp-net\\Models\\Financeiro.cs",
-              "ToolTip": "C:\\Users\\valer\\OneDrive\\Documentos\\Projetos\\gerenciamento-financeiro-asp-net\\gerenciamento-financeiro-asp-net\\Models\\Financeiro.cs",
-              "RelativeToolTip": "gerenciamento-financeiro-asp-net\\Models\\Financeiro.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-21T19:07:44.401Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AdicionarTransacao.cshtml",
-              "DocumentMoniker": "C:\\Users\\valer\\OneDrive\\Documentos\\Projetos\\gerenciamento-financeiro-asp-net\\gerenciamento-financeiro-asp-net\\Views\\Home\\AdicionarTransacao.cshtml",
-              "RelativeDocumentMoniker": "gerenciamento-financeiro-asp-net\\Views\\Home\\AdicionarTransacao.cshtml",
-              "ToolTip": "C:\\Users\\valer\\OneDrive\\Documentos\\Projetos\\gerenciamento-financeiro-asp-net\\gerenciamento-financeiro-asp-net\\Views\\Home\\AdicionarTransacao.cshtml",
-              "RelativeToolTip": "gerenciamento-financeiro-asp-net\\Views\\Home\\AdicionarTransacao.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-21T18:42:21.158Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -61,22 +28,23 @@
               "RelativeDocumentMoniker": "gerenciamento-financeiro-asp-net\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\valer\\OneDrive\\Documentos\\Projetos\\gerenciamento-financeiro-asp-net\\gerenciamento-financeiro-asp-net\\Controllers\\HomeController.cs*",
               "RelativeToolTip": "gerenciamento-financeiro-asp-net\\Controllers\\HomeController.cs*",
-              "ViewState": "AgIAAEwAAAAAAAAAAAAqwFoAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAgwE8AAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-21T18:38:34.331Z",
+              "WhenOpened": "2024-12-21T19:33:09.482Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\valer\\OneDrive\\Documentos\\Projetos\\gerenciamento-financeiro-asp-net\\gerenciamento-financeiro-asp-net\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "gerenciamento-financeiro-asp-net\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\valer\\OneDrive\\Documentos\\Projetos\\gerenciamento-financeiro-asp-net\\gerenciamento-financeiro-asp-net\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "gerenciamento-financeiro-asp-net\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\valer\\OneDrive\\Documentos\\Projetos\\gerenciamento-financeiro-asp-net\\gerenciamento-financeiro-asp-net\\Views\\Home\\Index.cshtml*",
+              "RelativeToolTip": "gerenciamento-financeiro-asp-net\\Views\\Home\\Index.cshtml*",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAFYAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-21T18:36:53.875Z"
+              "WhenOpened": "2024-12-21T19:27:00.005Z",
+              "EditorCaption": ""
             }
           ]
         }
