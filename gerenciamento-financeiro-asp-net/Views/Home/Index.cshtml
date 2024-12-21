@@ -6,7 +6,7 @@
     <div class="text-center">
         <a class="btn btn-success"> Adicionar - Transação</a>
         <a class="btn btn-warning"> Adicionar - Categoria</a>
-        <a class="btn btn-info"> Adicionar - Valores</a>
+        <a class="btn btn-info"> Análise - Valores</a>
     </div>
 
     <div class="col-md-2">
@@ -28,8 +28,8 @@
                 <label class="form-label">Data da Operação:</label>
                 <select name="filtro"
                         class="form-select"
-                        asp-items="@(new SelectList(ViewBag.DataOperacao ?? new List<SelectListItem>(), "Key", "Value", ViewBag.Filtros?.DataOperacao))">
-                        <!--asp-items="arroba(new SelectList(ViewBag.DataOperacao, "Key","Value", ViewBag.Filtros.DataOperacao))">-->
+                    
+                        asp-items="@(new SelectList(ViewBag.DataOperacao, "Key","Value", ViewBag.Filtros.DataOperacao))">
 
                     <option value="todos">Todos</option>
                 </select>

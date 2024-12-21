@@ -22,6 +22,7 @@ namespace gerenciamento_financeiro_asp_net.Controllers
             ViewBag.Filtros = filtros;
             ViewBag.Categorias = _context.Categorias.ToList();
             ViewBag.Transacoes = _context.Transacoes.ToList();
+            ViewBag.DataOperacao = Filtros.ValoresDataOperacao;
 
             IQueryable<Financeiro> consulta = _context.Financas.Include(x => x.Transacao).Include(x => x.Categoria);
 
@@ -60,6 +61,15 @@ namespace gerenciamento_financeiro_asp_net.Controllers
 
             return View(financas);
         }
+
+
+        [HttpPost]
+        public IActionResult Filtrar(string[] filtro)
+        {
+            string id = string.Join("-", filtro);
+            return RedirectToAction("Index", new {ID = id});
+        }
+
 
      
     }
