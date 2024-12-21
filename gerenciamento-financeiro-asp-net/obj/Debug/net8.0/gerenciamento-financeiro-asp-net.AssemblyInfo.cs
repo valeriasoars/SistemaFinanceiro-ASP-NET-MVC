@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("gerenciamento-financeiro-asp-net")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2d4517b0f2ec2ef0491a031b721c8c91f46ec5d3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d60bc8a929f48804756707392895616a4e552056")]
 [assembly: System.Reflection.AssemblyProductAttribute("gerenciamento-financeiro-asp-net")]
 [assembly: System.Reflection.AssemblyTitleAttribute("gerenciamento-financeiro-asp-net")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
