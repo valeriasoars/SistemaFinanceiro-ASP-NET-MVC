@@ -80,6 +80,26 @@ namespace gerenciamento_financeiro_asp_net.Controllers
         }
 
 
-     
+        [HttpPost]
+        public IActionResult AdicionarTransacao(Financeiro financeiro)
+        {
+
+            if (ModelState.IsValid)
+            {
+                _context.Financas.Add(financeiro);
+                _context.SaveChanges();
+                return RedirectToAction("Index");
+            }
+            else
+            {
+                ViewBag.Categorias = _context.Categorias.ToList();
+                ViewBag.Transacoes = _context.Transacoes.ToList();
+                return View(financeiro);
+            }
+        }
+
+
+
+
     }
 }
