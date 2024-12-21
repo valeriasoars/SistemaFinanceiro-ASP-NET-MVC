@@ -63,6 +63,15 @@ namespace gerenciamento_financeiro_asp_net.Controllers
         }
 
 
+        public IActionResult AdicionarTransacao()
+        {
+            ViewBag.Categorias = _context.Categorias.ToList();
+            ViewBag.Transacoes = _context.Transacoes.ToList();
+
+            return View();
+        }
+
+
         [HttpPost]
         public IActionResult Filtrar(string[] filtro)
         {
