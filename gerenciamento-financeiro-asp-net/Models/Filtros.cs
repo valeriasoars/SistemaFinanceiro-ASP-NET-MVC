@@ -26,7 +26,7 @@
             {
                 {"passado", "Passado" },
                 {"futuro", "Futuro" },
-                {"hoje", "Hoe" }
+                {"hoje", "Hoje" }
             };
 
         public bool EPassado => DataOperacao.ToLower() == "passado";
